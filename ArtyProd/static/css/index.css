@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: center; /* centre le div horizontalement */
+  align-items: center; /* centre le div verticalement */
+  height: 100vh; /* ajustez la hauteur selon vos besoins */
+}
+
+.w-full {
+  max-width: 100%; /* ajustez la largeur selon vos besoins */
+}

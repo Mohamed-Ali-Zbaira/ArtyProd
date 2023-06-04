@@ -1,0 +1,205 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ArtyProd</title>
+    <link
+      href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width" />
+  </head>
+  <body>
+<body>
+<br>
+
+<nav
+class="bg-white dark:bg-gray-900 fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600"
+>
+<div
+  class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4"
+>
+  <a href="" class="flex items-center">
+    <img
+      src="{% static 'image/ArtyProd.png' %}"
+      class="h-8 mr-3"
+      alt="Flowbite Logo"
+    />
+    <span
+      class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"
+      >ArtyProd</span
+    >
+  </a>
+  <div class="flex md:order-2">
+    {% if user.is_authenticated %}
+{% if user.username == 'admin' %}
+<button
+type="button"
+class="py-2.5 px-5 mr-2 mb-2 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-full border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+>
+<a href="{% url 'admin' %}">Dashboard</a>
+</button>
+{% endif %}
+<button
+type="button"
+class="text-white bg-red-700 hover:bg-red-800 focus:outline-none focus:ring-4 focus:ring-red-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mr-2 mb-2 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-900"
+>
+<a href="">{{ user.username }}</a>
+</button>
+<button
+type="button"
+class="py-2.5 px-5 mr-2 mb-2 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-full border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+>
+<a href="{% url 'logout' %}">Logout</a>
+</button>
+{% else %}
+<button
+type="button"
+class="py-2.5 px-5 mr-2 mb-2 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-full border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+>
+<a href="{% url 'register' %}">Register</a>
+</button>
+<button
+type="button"
+class="py-2.5 px-5 mr-2 mb-2 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-full border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+>
+<a href="{% url 'login' %}">Login</a>
+</button>
+{% endif %}
+
+
+   
+  </div>
+  <div
+    class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1"
+    id="navbar-sticky"
+  >
+    <ul
+      class="flex flex-col p-4 md:p-0 mt-4 font-medium border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700"
+    >
+      <li>
+        <a
+          href="{% url 'home' %}"
+          class="block py-2 pl-3 pr-4 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 md:dark:text-blue-500"
+          aria-current="page"
+          >Home</a
+        >
+      </li>
+      <li>
+        <a
+          href="{% url 'Portfolio' %}"
+          class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+          >Portfolio
+        </a>
+      </li>
+      <li>
+        <a
+          href="{% url 'services' %}"
+          class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+          >Services
+        </a>
+      </li>
+      {% if user.username == 'admin' %}
+      <li>
+        <a
+          href="{% url 'equipe' %}"
+          class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+          >Equipe
+        </a>
+      </li>
+      {% endif %}
+      <li>
+        <a
+          href="{% url 'Jobs' %}"
+          class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+          >job</a
+        >
+      </li>
+      <li>
+        <a
+          href="{% url 'contact' %}"
+          class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
+          >Contact</a
+        >
+      </li>
+    </ul>
+  </div>
+</div>
+</nav>
+    <br>
+    <br>
+    
+    <section class="bg-gray-50 dark:bg-gray-900 py-16">
+        <div class="flex flex-col items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0">
+          <div class="w-full bg-white rounded-lg shadow dark:border md:mt-0 sm:max-w-3xl xl:p-0 dark:bg-gray-800 dark:border-gray-700">
+            <div class="p-6 space-y-4 md:space-y-6 sm:p-8">
+              <h1 class="text-2xl font-bold mb-4">Postuler</h1>
+              <form action="{% url 'postuler' %}" method="POST" enctype="multipart/form-data" class="mx-auto">
+                {% csrf_token %}
+               
+                    <div class="mb-4">
+                        <label class="block text-gray-700 text-sm font-bold mb-2" for="nom">Nom</label>
+                        <input type="text" id="nom" name="nom" placeholder="Entrez votre nom" class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
+                    </div>
+                    <div class="mb-4">
+                        <label class="block text-gray-700 text-sm font-bold mb-2" for="prenom">Prénom</label>
+                        <input type="text" id="prenom" name="prenom" placeholder="Entrez votre prénom" class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
+                    </div>
+                    <div class="mb-4">
+                        <label class="block text-gray-700 text-sm font-bold mb-2" for="num_telephone">Numéro de téléphone</label>
+                        <input type="text" id="num_telephone" name="num_telephone" placeholder="Entrez votre numéro de téléphone" class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
+                    </div>
+                    <div class="mb-4">
+                        <label class="block text-gray-700 text-sm font-bold mb-2" for="niveau">Niveau</label>
+                        <input type="text" id="niveau" name="niveau" placeholder="Entrez votre niveau" class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
+                    </div>
+                    <div class="mb-4">
+                        <label class="block text-gray-700 text-sm font-bold mb-2" for="cv">CV (PDF)</label>
+                        <input type="file" id="cv" name="cv" accept="application/pdf" class="w-full">
+                    </div>
+                    <div class="mb-4">
+                        <label class="block text-gray-700 text-sm font-bold mb-2" for="experience">Expérience</label>
+                        <textarea id="experience" name="experience" placeholder="Entrez votre expérience" class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400"></textarea>
+                    </div>
+                    <div class="mb-4">
+                        <label class="block text-gray-700 text-sm font-bold mb-2" for="lettre_motivation">Lettre de motivation</label>
+                        <textarea id="lettre_motivation" name="lettre_motivation" placeholder="Entrez votre lettre de motivation" class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400"></textarea>
+                    </div>
+                    
+           
+                <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Soumettre</button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+
+
+    
+
+
+
+
+    
+    <!--footer -->
+    <br>
+    <div class="text-center pt-20">
+    <footer class="bg-white rounded-lg shadow dark:bg-gray-900 m-4">
+      <div class="max-w-7xl mx-auto">
+        <div class="w-full max-w-screen-xl mx-auto p-4 md:py-8">
+          <span
+            class="block text-sm text-gray-500 sm:text-center dark:text-gray-400"
+            >© 2023
+            <a href="https://flowbite.com/" class="hover:underline">ArtyProd™</a
+            >. All Rights Reserved.</span
+          >
+        </div>
+      </div>
+    </footer>
+    </div>
+    <!--footer -->
+  </body>
+</html>
