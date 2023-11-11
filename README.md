@@ -50,8 +50,8 @@ To run the ArtyProd web application locally, follow these steps:
 Feel free to explore and customize the application based on your needs.
 
 ## Screenshots
-**Data Management:**
-![Screenshot 1](screenshots/screenshot1.png)
+**Authentication:**
+![Screenshot 1]([screenshots/screenshot1.png](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699702826/Artyprod/umymgbnnt3hrj1sqdjgt.png))
 ![Screenshot 2](screenshots/screenshot2.png)
 ![Screenshot 3](screenshots/screenshot3.png)
 
