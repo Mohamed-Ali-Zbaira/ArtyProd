@@ -50,6 +50,7 @@ Feel free to explore and customize the application based on your needs.
 
 ## Screenshots
 **Authentication:**
- ![Interfaces client](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699702826/Artyprod/umymgbnnt3hrj1sqdjgt.png)
-**Authentication:**
+ ![Interfaces Authentication](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699702826/Artyprod/umymgbnnt3hrj1sqdjgt.png)
+**Portfolio:**
+ ![Interfaces Authentication](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699702826/Artyprod/umymgbnnt3hrj1sqdjgt.png) | ![Interfaces Authentication](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699702826/Artyprod/umymgbnnt3hrj1sqdjgt.png)
 For more information, refer to the sections above and the documentation provided within the application.
