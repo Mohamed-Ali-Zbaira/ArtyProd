@@ -51,6 +51,6 @@ Feel free to explore and customize the application based on your needs.
 
 ## Screenshots
 **Authentication:**
-[External Image](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699702826/Artyprod/umymgbnnt3hrj1sqdjgt.png)
- ![Interfaces client](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697286997/Project%20Laravel/Client/xkusejtebudbbdqdlxy5.png)
+
+ ![Interfaces client](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699702826/Artyprod/umymgbnnt3hrj1sqdjgt.png)
 For more information, refer to the sections above and the documentation provided within the application.
