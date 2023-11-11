@@ -1,5 +1,5 @@
 # ArtyProd Web Application
-
+ ![Interfaces Acceuil](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699703187/Artyprod/g66ojzncm9hdr1yufddb.png)
 ## Overview
 
 ArtyProd, a graphic design, audiovisual production, and 3D design agency, aims to create a web application to showcase its services to users. The application allows users to explore the agency's portfolio, learn about its services, view team members, and contact the agency. Users have the option to register, providing personal information, to gain additional privileges such as requesting project realization and tracking project progress.
@@ -23,7 +23,6 @@ ArtyProd, a graphic design, audiovisual production, and 3D design agency, aims t
 
 - **Contact:**
   - Contact page with a contact form, contact information, and a map to locate the agency.
- ![Interfaces Acceuil](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699703187/Artyprod/g66ojzncm9hdr1yufddb.png)
 ## Additional Information
 
 - **Project Management:**
