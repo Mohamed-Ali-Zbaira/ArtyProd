@@ -50,7 +50,7 @@ To run the ArtyProd web application locally, follow these steps:
 Feel free to explore and customize the application based on your needs.
 
 ## Screenshots
-
+# Screenshots
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
 ![Screenshot 3](screenshots/screenshot3.png)
