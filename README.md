@@ -51,9 +51,9 @@ Feel free to explore and customize the application based on your needs.
 ## Authentication Screenshots
  ![Interfaces Authentication](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699702826/Artyprod/umymgbnnt3hrj1sqdjgt.png)
 ## Portfolio Screenshots
- ![Interfaces Portfolio](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699704292/Artyprod/wxhbscdf7y6whucredqf.jpg) 
+ ![Interfaces Portfolio](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699737842/Artyprod/t8crlrj5ic4q4ujg1pzt.png) 
 ## Service Screenshots
- ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699704376/Artyprod/sva5p0xrtyepswczvivf.jpg) 
+ ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699737842/Artyprod/t8crlrj5ic4q4ujg1pzt.png) 
 ## job Screenshots
    **Stage**
 ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699704857/Artyprod/nx1w6stloalmejguo3ej.jpg) 
