@@ -51,8 +51,6 @@ Feel free to explore and customize the application based on your needs.
 
 ## Screenshots
 **Authentication:**
-![Screenshot 1]([screenshots/screenshot1.png](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699702826/Artyprod/umymgbnnt3hrj1sqdjgt.png))
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+[External Image](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699702826/Artyprod/umymgbnnt3hrj1sqdjgt.png)
 
 For more information, refer to the sections above and the documentation provided within the application.
