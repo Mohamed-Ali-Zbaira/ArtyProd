@@ -54,11 +54,13 @@ Feel free to explore and customize the application based on your needs.
  ![Interfaces Portfolio](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699704292/Artyprod/wxhbscdf7y6whucredqf.jpg) 
 ## Service Screenshots
  ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699704376/Artyprod/sva5p0xrtyepswczvivf.jpg) 
-## Service job
-   ****************************************************Stage*********************************************************
+## job Screenshots
+   **Stage**
 ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699704857/Artyprod/nx1w6stloalmejguo3ej.jpg) 
    **Recrutement**
 ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699705050/Artyprod/x2j8eqdwljqe4tast6em.jpg) 
    **Personnel**
 ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699705243/Artyprod/bhl4ggeujc1d94rwdfq8.jpg) 
+## job Screenshots
+![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699705944/Artyprod/hn9a47uvtzl64jpralsi.png) 
 For more information, refer to the sections above and the documentation provided within the application.
