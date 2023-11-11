@@ -55,12 +55,13 @@ Feel free to explore and customize the application based on your needs.
 ## Service Screenshots
  ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699738192/Artyprod/vrv1rmy4fxngfzupy3cl.png) 
 ## job Screenshots
+![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699738399/Artyprod/iyhggdl34eqe6ssshbf5.png) 
    **Stage**
-![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699704857/Artyprod/nx1w6stloalmejguo3ej.jpg) 
+![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699738477/Artyprod/q3uzeqd48mrurspegybu.png) 
    **Recrutement**
-![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699705050/Artyprod/x2j8eqdwljqe4tast6em.jpg) 
+![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699738583/Artyprod/cjwr02tcx676pvl96yfm.png) 
    **Personnel**
-![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699705243/Artyprod/bhl4ggeujc1d94rwdfq8.jpg) 
+![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699738640/Artyprod/bo4obmx0pgcbzkn4m5a2.png) 
 ## Dashboard Screenshot
 ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699705944/Artyprod/hn9a47uvtzl64jpralsi.png) 
 For more information, refer to the sections above and the documentation provided within the application.
