@@ -23,7 +23,7 @@ ArtyProd, a graphic design, audiovisual production, and 3D design agency, aims t
 
 - **Contact:**
   - Contact page with a contact form, contact information, and a map to locate the agency.
-
+ ![Interfaces Acceuil](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699703187/Artyprod/g66ojzncm9hdr1yufddb.png)
 ## Additional Information
 
 - **Project Management:**
@@ -51,6 +51,6 @@ Feel free to explore and customize the application based on your needs.
 
 ## Screenshots
 **Authentication:**
-
  ![Interfaces client](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699702826/Artyprod/umymgbnnt3hrj1sqdjgt.png)
+**Authentication:**
 For more information, refer to the sections above and the documentation provided within the application.
