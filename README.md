@@ -58,7 +58,7 @@ Feel free to explore and customize the application based on your needs.
    **Stage**
 ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699704857/Artyprod/nx1w6stloalmejguo3ej.jpg) 
    **Recrutement**
-![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699704857/Artyprod/nx1w6stloalmejguo3ej.jpg) 
+![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699705050/Artyprod/x2j8eqdwljqe4tast6em.jpg) 
    **Personnel**
-![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699704857/Artyprod/nx1w6stloalmejguo3ej.jpg) 
+![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699705243/Artyprod/bhl4ggeujc1d94rwdfq8.jpg) 
 For more information, refer to the sections above and the documentation provided within the application.
