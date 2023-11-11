@@ -48,12 +48,10 @@ To run the ArtyProd web application locally, follow these steps:
 
 Feel free to explore and customize the application based on your needs.
 
-## Screenshots
-## Authentication
-
+## Authentication Screenshots
  ![Interfaces Authentication](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699702826/Artyprod/umymgbnnt3hrj1sqdjgt.png)
-**Portfolio:**
+## Portfolio Screenshots
  ![Interfaces Portfolio](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699704292/Artyprod/wxhbscdf7y6whucredqf.jpg) 
-**Service:**
+## Service Screenshots
  ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699704376/Artyprod/sva5p0xrtyepswczvivf.jpg) 
 For more information, refer to the sections above and the documentation provided within the application.
