@@ -61,6 +61,6 @@ Feel free to explore and customize the application based on your needs.
 ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699705050/Artyprod/x2j8eqdwljqe4tast6em.jpg) 
    **Personnel**
 ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699705243/Artyprod/bhl4ggeujc1d94rwdfq8.jpg) 
-## job Screenshots
+## Dashboard Screenshot
 ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699705944/Artyprod/hn9a47uvtzl64jpralsi.png) 
 For more information, refer to the sections above and the documentation provided within the application.
