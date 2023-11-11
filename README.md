@@ -55,7 +55,7 @@ Feel free to explore and customize the application based on your needs.
 ## Service Screenshots
  ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699704376/Artyprod/sva5p0xrtyepswczvivf.jpg) 
 ## Service job
-   **Stage**
+   ****************************************************Stage*********************************************************
 ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699704857/Artyprod/nx1w6stloalmejguo3ej.jpg) 
    **Recrutement**
 ![Interfaces Service](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699705050/Artyprod/x2j8eqdwljqe4tast6em.jpg) 
